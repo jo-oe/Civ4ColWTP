@@ -2376,7 +2376,7 @@
             <bAnimated>0</bAnimated>
             <CityTexture>,Art/Interface/Screens/City_Management/city_buildings_RaR1.dds,4,8</CityTexture>
             <CitySelectedTexture>,IS,FILLER,TEXT</CitySelectedTexture>
-            <fScale>0.8</fScale>
+            <fScale>1.0</fScale>
             <fInterfaceScale>0.45</fInterfaceScale>
             <NIF>Art/Structures/Buildings/corn_chamber/corn_chamber.nif</NIF>
             <KFM/>
