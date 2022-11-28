@@ -3479,7 +3479,7 @@
                     <bMakesValid>1</bMakesValid>
                 </TerrainMakesValid>
                 <TerrainMakesValid>
-                    <TerrainType>TERRAIN_TERRAIN_PRAIRIE</TerrainType>
+                    <TerrainType>TERRAIN_PRAIRIE</TerrainType>
                     <bMakesValid>1</bMakesValid>
                 </TerrainMakesValid>
             </TerrainMakesValids>
