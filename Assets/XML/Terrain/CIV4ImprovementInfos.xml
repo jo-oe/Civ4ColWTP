@@ -3478,10 +3478,6 @@
                     <TerrainType>TERRAIN_PLAINS_FERTILE</TerrainType>
                     <bMakesValid>1</bMakesValid>
                 </TerrainMakesValid>
-                <TerrainMakesValid>
-                    <TerrainType>TERRAIN_PRAIRIE</TerrainType>
-                    <bMakesValid>1</bMakesValid>
-                </TerrainMakesValid>
             </TerrainMakesValids>
             <FeatureMakesValids>
                 <FeatureMakesValid>
