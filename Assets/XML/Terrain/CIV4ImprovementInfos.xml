@@ -3439,7 +3439,7 @@
             <RiverSideYieldChanges/>
             <HillsYieldChanges/>
             <bActsAsCity>0</bActsAsCity>
-            <bHillsMakesValid>0</bHillsMakesValid>
+            <bHillsMakesValid>1</bHillsMakesValid>
             <bRiverSideMakesValid>0</bRiverSideMakesValid>
             <bRequiresFlatlands>0</bRequiresFlatlands>
             <bRequiresRiverSide>0</bRequiresRiverSide>
@@ -3476,6 +3476,10 @@
                 </TerrainMakesValid>
                 <TerrainMakesValid>
                     <TerrainType>TERRAIN_PLAINS_FERTILE</TerrainType>
+                    <bMakesValid>1</bMakesValid>
+                </TerrainMakesValid>
+                <TerrainMakesValid>
+                    <TerrainType>TERRAIN_TERRAIN_PRAIRIE</TerrainType>
                     <bMakesValid>1</bMakesValid>
                 </TerrainMakesValid>
             </TerrainMakesValids>
@@ -3569,7 +3573,7 @@
             <RiverSideYieldChanges/>
             <HillsYieldChanges/>
             <bActsAsCity>0</bActsAsCity>
-            <bHillsMakesValid>0</bHillsMakesValid>
+            <bHillsMakesValid>1</bHillsMakesValid>
             <bRiverSideMakesValid>0</bRiverSideMakesValid>
             <bRequiresFlatlands>0</bRequiresFlatlands>
             <bRequiresRiverSide>0</bRequiresRiverSide>
@@ -5905,7 +5909,7 @@
             <RiverSideYieldChanges/>
             <HillsYieldChanges/>
             <bActsAsCity>0</bActsAsCity>
-            <bHillsMakesValid>0</bHillsMakesValid>
+            <bHillsMakesValid>1</bHillsMakesValid>
             <bRiverSideMakesValid>0</bRiverSideMakesValid>
             <bRequiresFlatlands>0</bRequiresFlatlands>
             <bRequiresRiverSide>0</bRequiresRiverSide>
@@ -6035,7 +6039,7 @@
             <RiverSideYieldChanges/>
             <HillsYieldChanges/>
             <bActsAsCity>0</bActsAsCity>
-            <bHillsMakesValid>0</bHillsMakesValid>
+            <bHillsMakesValid>1</bHillsMakesValid>
             <bRiverSideMakesValid>0</bRiverSideMakesValid>
             <bRequiresFlatlands>0</bRequiresFlatlands>
             <bRequiresRiverSide>0</bRequiresRiverSide>
