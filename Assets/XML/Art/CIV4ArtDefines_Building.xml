@@ -2408,7 +2408,7 @@
         </BuildingArtInfo>
         <BuildingArtInfo>
             <Type>ART_DEF_BUILDING_MEDICAL_OFFICE</Type>
-            <LSystem>LSYSTEM_1x1</LSystem>
+            <LSystem>LSYSTEM_2x2</LSystem>
             <bAnimated>0</bAnimated>
             <CityTexture>,Art/Interface/Screens/City_Management/city_buildings_RaR2.dds,1,7</CityTexture>
             <CitySelectedTexture>,IS,FILLER,TEXT</CitySelectedTexture>
