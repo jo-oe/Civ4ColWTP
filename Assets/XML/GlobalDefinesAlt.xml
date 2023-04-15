@@ -43,11 +43,11 @@
 	</Define>
 	<Define>
 		<DefineName>SCORE_FATHER_FACTOR</DefineName>
-		<iDefineIntVal>2000</iDefineIntVal>
+		<iDefineIntVal>3000</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>CITY_YIELD_DECAY_PERCENT</DefineName>
-		<iDefineIntVal>50</iDefineIntVal>
+		<iDefineIntVal>33</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>MIN_CITY_YIELD_DECAY</DefineName>
@@ -175,7 +175,7 @@
 	</Define>
 	<Define>
 		<DefineName>LBD_BASE_CHANCE_EXPERT</DefineName>
-		<iDefineIntVal>30</iDefineIntVal>
+		<iDefineIntVal>20</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>LBD_CHANCE_INCREASE_EXPERT</DefineName>
@@ -187,7 +187,7 @@
 	</Define>
 	<Define>
 		<DefineName>LBD_PRE_ROUNDS_EXPERT</DefineName>
-		<iDefineIntVal>30</iDefineIntVal>
+		<iDefineIntVal>50</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>LBD_PRE_ROUNDS_EXPERT_DECREASE_FROM_TEACHER</DefineName>
@@ -219,23 +219,23 @@
 	</Define>
 	<Define>
 		<DefineName>LBD_CHANCE_ESCAPE</DefineName>
-		<iDefineIntVal>5</iDefineIntVal>
+		<iDefineIntVal>3</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>LBD_CHANCE_MOD_ESCAPE_CRIMINAL</DefineName>
-		<iDefineIntVal>3</iDefineIntVal>
+		<iDefineIntVal>2</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>LBD_CHANCE_MOD_ESCAPE_SERVANT</DefineName>
-		<iDefineIntVal>2</iDefineIntVal>
+		<iDefineIntVal>1</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>LBD_CHANCE_REVOLT</DefineName>
-		<iDefineIntVal>3</iDefineIntVal>
+		<iDefineIntVal>2</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>LBD_CHANCE_MOD_REVOLT_CRIMINAL</DefineName>
-		<iDefineIntVal>2</iDefineIntVal>
+		<iDefineIntVal>1</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>LBD_CHANCE_MOD_REVOLT_SLAVE</DefineName>
@@ -275,11 +275,11 @@
 	</Define>
 	<Define>
 		<DefineName>AI_REBELS_FOR_REVOLUTION</DefineName>
-		<iDefineIntVal>60</iDefineIntVal>
+		<iDefineIntVal>67</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>UNIT_REVOLUTION_RATIO</DefineName>
-		<iDefineIntVal>60</iDefineIntVal>
+		<iDefineIntVal>67</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>AI_FREE_CITY_DEFENDERS</DefineName>
@@ -295,7 +295,7 @@
 	</Define>
 	<Define>
 		<DefineName>KI_RESPAWN_OFF_MIN_TURN</DefineName>
-		<iDefineIntVal>100</iDefineIntVal>
+		<iDefineIntVal>50</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>BASE_CHANCE_CAPTURING_SHIPS</DefineName>
@@ -343,7 +343,7 @@
 	</Define>
 	<Define>
 		<DefineName>BASE_CHANCE_EUROPE_WARS</DefineName>
-		<iDefineIntVal>50</iDefineIntVal>
+		<iDefineIntVal>66</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>POS_TAX_EUROPE_WARS</DefineName>
@@ -423,7 +423,7 @@
 	</Define>
 	<Define>
 		<DefineName>MIN_FOUND_VALUE_FOR_NATIVES</DefineName>
-		<iDefineIntVal>26</iDefineIntVal>
+		<iDefineIntVal>22</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>REDUCED_REF_PERCENT</DefineName>
@@ -455,11 +455,11 @@
 	</Define>
 	<Define>
 		<DefineName>AI_STACK_OF_DOOM_LIMIT</DefineName>
-		<iDefineIntVal>32</iDefineIntVal>
+		<iDefineIntVal>16</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>BASE_CHANCE_EUROPE_PEACE</DefineName>
-		<iDefineIntVal>500</iDefineIntVal>
+		<iDefineIntVal>400</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>UNITCLASS_DIPLOMAT_1</DefineName>
@@ -587,7 +587,7 @@
 	</Define>
 	<Define>
 		<DefineName>PRISONS_CROWDED_CHANCE</DefineName>
-		<iDefineIntVal>25</iDefineIntVal>
+		<iDefineIntVal>15</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>MAX_PRISONERS_OFFERED</DefineName>
@@ -671,7 +671,7 @@
 	</Define>
 	<Define>
 		<DefineName>PORT_ROYAL_PORT_TAX</DefineName>
-		<iDefineIntVal>10</iDefineIntVal>
+		<iDefineIntVal>20</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>UNITCLASS_RANGER</DefineName>
@@ -763,7 +763,7 @@
 	</Define>
 	<Define>
 		<DefineName>AFRICAN_SLAVES_CHANCE</DefineName>
-		<iDefineIntVal>50</iDefineIntVal>
+		<iDefineIntVal>33</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>MAX_AFRICAN_SLAVES_OFFERED</DefineName>
@@ -891,7 +891,7 @@
 	</Define>
 	<Define>
 		<DefineName>WILD_ANIMAL_REWARD_RANDOM_BASE</DefineName>
-		<iDefineIntVal>50</iDefineIntVal>
+		<iDefineIntVal>100</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>BASE_CHANCE_MONASTERY_FEATURES</DefineName>
@@ -971,11 +971,11 @@
 	</Define>
 	<Define>
 		<DefineName>CHANCE_MILITIA</DefineName>
-		<iDefineIntVal>500</iDefineIntVal>
+		<iDefineIntVal>300</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>CHANCE_UNREST</DefineName>
-		<iDefineIntVal>200</iDefineIntVal>
+		<iDefineIntVal>100</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>PRICE_MILITIA</DefineName>
@@ -1134,11 +1134,11 @@
 	<!-- XP cap begin -->
 	<Define>
 		<DefineName>ANIMAL_MAX_XP_VALUE</DefineName>
-		<iDefineIntVal>2</iDefineIntVal>
+		<iDefineIntVal>5</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>ESCAPE_MAX_XP_VALUE</DefineName>
-		<iDefineIntVal>0</iDefineIntVal>
+		<iDefineIntVal>1</iDefineIntVal>
 	</Define>
 	<!-- XP cap end -->
 	<Define>
