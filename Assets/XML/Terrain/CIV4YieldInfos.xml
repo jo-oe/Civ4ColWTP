@@ -1624,7 +1624,7 @@
             <iTextureIndex>39</iTextureIndex>
             <iWaterTextureIndex>-1</iWaterTextureIndex>
             <Icon>Art/interface/buttons/New_Yieds_Icons/Yerba_Leaves_Goods_Icon.dds</Icon>
-            <CombiIcon>Art/interface/buttons/New_Yieds_Icons/Combi_Icon_Tobacco_Yerba.dds</CombiIcon>	
+            <CombiIcon>Art/interface/buttons/New_Yieds_Icons/Combi_Icon_Tobacco_Yerba.dds</CombiIcon>
             <HighlightIcon>,Art/Interface/Screens/City_Management/Colonization_Yield_Highlight_Icon_Atlas.dds,7,1</HighlightIcon>
             <Button>Art/interface/buttons/New_Yields_Buttons/Yerba_Leaves_Goods_Button.dds</Button>
         </YieldInfo>
@@ -1665,7 +1665,7 @@
             <UnitClass>UNITCLASS_LOGWOOD</UnitClass>
             <iTextureIndex>40</iTextureIndex>
             <iWaterTextureIndex>-1</iWaterTextureIndex>
-            <Icon>Art/interface/buttons/New_Yieds_Icons/Bloodwood_Goods_Icon.dds</Icon>	
+            <Icon>Art/interface/buttons/New_Yieds_Icons/Bloodwood_Goods_Icon.dds</Icon>
             <HighlightIcon>,Art/Interface/Screens/City_Management/Colonization_Yield_Highlight_Icon_Atlas.dds,10,1</HighlightIcon>
             <Button>Art/interface/buttons/New_Yields_Buttons/Bloodwood_Goods_Button.dds</Button>
         </YieldInfo>
@@ -1788,7 +1788,7 @@
             <UnitClass>UNITCLASS_COCHINEAL</UnitClass>
             <iTextureIndex>51</iTextureIndex>
             <iWaterTextureIndex>-1</iWaterTextureIndex>
-            <Icon>Art/interface/buttons/New_Yieds_Icons/Cochineal_Goods_Icon.dds</Icon>	
+            <Icon>Art/interface/buttons/New_Yieds_Icons/Cochineal_Goods_Icon.dds</Icon>
             <HighlightIcon>,Art/Interface/Screens/City_Management/Colonization_Yield_Highlight_Icon_Atlas.dds,10,1</HighlightIcon>
             <Button>Art/interface/buttons/New_Yields_Buttons/Cochineal_Goods_Button.dds</Button>
         </YieldInfo>
@@ -3786,7 +3786,7 @@
             <iTextureIndex>-1</iTextureIndex>
             <iWaterTextureIndex>-1</iWaterTextureIndex>
             <Icon>Art/interface/buttons/New_Yieds_Icons/Olive_Oil_Goods_Icon.dds</Icon>
-            <CombiIcon>Art/interface/buttons/New_Yieds_Icons/Combi_Icon_Oil.dds</CombiIcon>	
+            <CombiIcon>Art/interface/buttons/New_Yieds_Icons/Combi_Icon_Oil.dds</CombiIcon>
             <HighlightIcon>,Art/Interface/Screens/City_Management/Colonization_Yield_Highlight_Icon_Atlas.dds,1,2</HighlightIcon>
             <Button>Art/interface/buttons/New_Yields_Buttons/Olive_Oil_Goods_Button.dds</Button>
         </YieldInfo>
@@ -3828,7 +3828,7 @@
             <iTextureIndex>-1</iTextureIndex>
             <iWaterTextureIndex>-1</iWaterTextureIndex>
             <Icon>Art/interface/buttons/New_Yieds_Icons/Rape_Seed_Oil_Goods_Icon.dds</Icon>
-            <CombiIcon>Art/interface/buttons/New_Yieds_Icons/Combi_Icon_Oil.dds</CombiIcon>	
+            <CombiIcon>Art/interface/buttons/New_Yieds_Icons/Combi_Icon_Oil.dds</CombiIcon>
             <HighlightIcon>,Art/Interface/Screens/City_Management/Colonization_Yield_Highlight_Icon_Atlas.dds,1,2</HighlightIcon>
             <Button>Art/interface/buttons/New_Yields_Buttons/Rape_Seed_Oil_Goods_Button.dds</Button>
         </YieldInfo>
