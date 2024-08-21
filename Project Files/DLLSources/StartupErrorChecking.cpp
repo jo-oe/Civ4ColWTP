@@ -186,7 +186,7 @@ static void checkPublicMapSetting()
 		switch (returnVal)
 		{
 		case AlertWindow::returnTypes::clickedAbout: exit(0);
-		case AlertWindow::returnTypes::clickedRetry: 
+		case AlertWindow::returnTypes::clickedRetry:
 			checkPublicMapSetting();
 			return;
 		case AlertWindow::returnTypes::clickedIgnore:
@@ -304,8 +304,8 @@ namespace StartupCheck
 			testAllWindows();
 		}
 
-		TestDLLLocation();
-		checkPublicMapSetting();
+		// TestDLLLocation();
+		// checkPublicMapSetting();
 		checkLargeAddressAwareness();
 		checkSteam();
 		testHardcodedXML();
